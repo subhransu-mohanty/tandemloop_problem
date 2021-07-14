@@ -1,0 +1,36 @@
+.container {
+  border: 0.2rem solid red;
+}
+#header {
+  border: 0.2rem solid rgb(34, 115, 235);
+  background-color: rgb(255, 205, 205);
+  margin: 0.5rem 0.5rem;
+}
+#side {
+  border: 0.2rem solid rgb(16, 231, 221);
+  background-color: rgb(183, 154, 211);
+  margin: 0.5rem;
+}
+#div1 {
+  border: 0.2rem solid rgb(137, 238, 21);
+  background-color: rgb(166, 199, 123);
+  margin: 0.5rem;
+}
+#div2 {
+  border: 0.2rem solid rgb(235, 182, 34);
+  background-color: rgb(186, 235, 233);
+  margin: 0.5rem;
+}
+#div3 {
+  border: 0.2rem solid rgb(235, 34, 128);
+  background-color: rgb(209, 148, 108);
+  margin: 0.5rem;
+}
+#footer {
+  border: 0.2rem solid rgb(129, 128, 202);
+  margin: 0.5rem 0.5rem;
+}
+#footer-content {
+  background-color: aquamarine;
+  padding: 1rem;
+}
